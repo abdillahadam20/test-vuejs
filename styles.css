@@ -156,3 +156,68 @@ aside .right .div3 {
 		gap: 5px;
 	}
 }
+
+
+section {
+	background-color: blueviolet;
+	width: 60%;
+	height: 200px;
+}
+
+section .div1 {
+	width: 70px;
+	height: 50px;
+	background-color: orangered;
+}
+
+section .div2 {
+	height: 100px;
+	width: 70px;
+	background-color: white;
+	position: absolute;
+	left: 3rem;
+	top: 27rem;
+}
+
+section .div3 {
+	width: 120px;
+	height: 80px;
+	background-color: orangered;
+	position: absolute;
+	top: 32rem;
+	left: 6rem;
+}
+
+section .div4 {
+	width: 120px;
+	height: 80px;
+	background-color: orangered;
+	position: absolute;
+	top: 26rem;
+	left: 62rem;
+}
+
+section .div5 {
+	width: 120px;
+	height: 80px;
+	background-color: orangered;
+	position: absolute;
+	top: 32rem;
+	left: 82rem;
+}
+
+section .div6 {
+	position: absolute;
+	top: 24rem;
+	left: 105rem;
+}
+
+section .div6 p {
+	color: red;
+	position: relative;
+	top: -2rem;
+	left: -13px;
+	font-size: 20px;
+	font-weight: bold;
+	transform: rotate(18deg);
+}
